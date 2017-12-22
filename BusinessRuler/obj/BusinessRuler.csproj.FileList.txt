@@ -1,0 +1,14 @@
+bin\Debug\BusinessRuler.dll
+bin\Debug\BusinessRuler.pdb
+bin\Debug\DataAccess.dll
+bin\Debug\DataAccess.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BusinessRuler.csproj.ResolveComReference.cache
+obj\Debug\BusinessRuler.dll
+obj\Debug\BusinessRuler.pdb
+bin\Debug\Interop.Excel.dll
+bin\Debug\Interop.VBIDE.dll
+obj\Debug\Interop.Excel.dll
+obj\Debug\Interop.VBIDE.dll
+bin\Debug\Interop.Office.dll
+obj\Debug\Interop.Office.dll

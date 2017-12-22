@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\小型学生管理系统\小型学生管理系统\学生管理系统\StudentManagement\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\小型学生管理系统\小型学生管理系统\学生管理系统\StudentManagement\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\小型学生管理系统\小型学生管理系统\学生管理系统\StudentManagement\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\小型学生管理系统\小型学生管理系统\学生管理系统\StudentManagement\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\小型学生管理系统\小型学生管理系统\学生管理系统\StudentManagement\DataAccess\obj\Debug\DataAccess.pdb
+D:\42193221\FileRecv\MF000590-ASP.NET学生管理系统源码\MF000590-ASP.NET学生管理系统源码\DataAccess\bin\Debug\DataAccess.dll
+D:\42193221\FileRecv\MF000590-ASP.NET学生管理系统源码\MF000590-ASP.NET学生管理系统源码\DataAccess\bin\Debug\DataAccess.pdb
+D:\42193221\FileRecv\MF000590-ASP.NET学生管理系统源码\MF000590-ASP.NET学生管理系统源码\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\42193221\FileRecv\MF000590-ASP.NET学生管理系统源码\MF000590-ASP.NET学生管理系统源码\DataAccess\obj\Debug\DataAccess.dll
+D:\42193221\FileRecv\MF000590-ASP.NET学生管理系统源码\MF000590-ASP.NET学生管理系统源码\DataAccess\obj\Debug\DataAccess.pdb

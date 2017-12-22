@@ -1,0 +1,10 @@
+E:\精品课程\学生管理系统\StudentManagement\DataAccess\bin\Debug\DataAccess.dll
+E:\精品课程\学生管理系统\StudentManagement\DataAccess\bin\Debug\DataAccess.pdb
+E:\精品课程\学生管理系统\StudentManagement\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\精品课程\学生管理系统\StudentManagement\DataAccess\obj\Debug\DataAccess.dll
+E:\精品课程\学生管理系统\StudentManagement\DataAccess\obj\Debug\DataAccess.pdb
+E:\精品课程\阶段项目案例三\学生管理系统\StudentManagement\DataAccess\bin\Debug\DataAccess.dll
+E:\精品课程\阶段项目案例三\学生管理系统\StudentManagement\DataAccess\bin\Debug\DataAccess.pdb
+E:\精品课程\阶段项目案例三\学生管理系统\StudentManagement\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\精品课程\阶段项目案例三\学生管理系统\StudentManagement\DataAccess\obj\Debug\DataAccess.dll
+E:\精品课程\阶段项目案例三\学生管理系统\StudentManagement\DataAccess\obj\Debug\DataAccess.pdb
